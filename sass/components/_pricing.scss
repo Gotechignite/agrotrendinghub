@@ -1,0 +1,77 @@
+
+/*--------------------------------------------------------------
+# Pricing
+--------------------------------------------------------------*/
+.product .box {
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  background: var(--color-primary);
+  text-align: center;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12);
+  border-radius: 50px;
+  position: relative;
+  overflow: hidden;
+}
+.product .box .box-round{
+  padding: 20px;
+  background: #fff;
+  text-align: center;
+  border-radius: 50px;
+  position: relative;
+  overflow: hidden;
+}
+.product .box .box-round .img-fluid {
+  width: 180px;
+  height: 150px;
+}
+.product .box .product-info h3 {
+  padding-top: 15px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.product .box .product-info ul {
+  padding: 0;
+  list-style: none;
+  color: #444444;
+  text-align: center;
+  line-height: 20px;
+  font-size: 13px; 
+}
+
+.product .box .product-info ul li {
+  padding-bottom: 15px;
+}
+
+.product .box .product-info ul .na {
+  color: var(--color-primary-dark);
+  font-weight: 600;
+}
+
+.product .btn-wrap {
+  padding: 5px 15px 15px 15px;
+  background: #f8f8f8;
+  text-align: center;
+}
+
+.product .btn-buy {
+  text-transform: uppercase;
+  background: transparent;
+  display: inline-block;
+  padding: 8px 20px 10px 20px;
+  border: 1.5px solid var(--color-text-light);
+  color: var(--color-primary);
+  transition: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.product .btn-buy:hover {
+  background: var(--color-primary-light);
+  color: var(--color-text);
+  border: 0px solid var(--color-primary);
+}
+
+

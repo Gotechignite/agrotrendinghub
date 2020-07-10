@@ -1,0 +1,244 @@
+
+
+/*--------------------------------------------------------------
+# Top Bar
+--------------------------------------------------------------*/
+#topbar {
+  background: var(--color-primary);
+  height: 40px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.5s;
+  color: var(--color-text);
+  line-height: 1;
+}
+
+#topbar.topbar-scrolled {
+  top: -40px;
+}
+
+#topbar .home-info {
+  color: #ffffff;
+  transition: 0.3s;
+}
+#topbar .home-info i{
+  padding-right: 4px;
+  margin-left: 15px;
+}
+
+#topbar .home-info i:first-child {
+  margin-left: 0;
+}
+
+#topbar .help a {
+  text-decoration: none;
+  color: #ffffff;
+  padding-left: 15px;
+  display: inline-block;
+  line-height: 1px;
+  transition: 0.3s;
+}
+
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+    background: #fff;
+    transition: all 0.5s;
+    z-index: 997;
+    padding: 25px 0;
+    top: 40px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  #header.header-scrolled {
+    top: 0;
+    padding: 15px;
+  }
+  
+  #header .logo {
+    text-transform: uppercase;
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  #header .logo a {
+    color: var(--color-text);
+  }
+  
+  #header .logo a span {
+    color: var(--color-primary);
+  }
+  
+  
+  @media (max-width: 992px) {
+    #header {
+      padding: 15px;
+      top: 0;
+    }
+    #header .logo {
+      font-size: 25px;
+    }
+  }
+
+
+  
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+#hero {
+    width: 100%;
+    height: 80vh;
+    background: url("../assets/img/banner.jpg");
+    background-size: cover;
+    position: relative;
+  }
+  
+  #hero:before {
+    content: "";
+    background: rgba(5, 5, 5, 0.15);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  #hero .container {
+    position: relative;
+    padding-top: 132px;
+  }
+  
+  @media (max-width: 992px) {
+    #hero .container {
+      padding-top: 58px;
+    }
+  }
+  
+  #hero h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    color: #fff;
+    font-family: "Lato", sans-serif;
+  }
+  
+  #hero h1 span {
+    color: var(--color-primary);
+  }
+  
+  #hero h2 {
+    color: #ffffff;
+    margin: 5px 0 30px 0;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  #hero .btn-get-started {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 28px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #ffffff;
+    background: var(--color-primary);
+  }
+  
+  #hero .btn-get-started:hover {
+    background: var(--color-primary-light);
+    color: rgb(0, 0, 0);
+  }
+  
+  #hero .btn-watch-video {
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 25px 8px 40px;
+    transition: 0.5s;
+    margin-left: 25px;
+    color: #ffffff;
+    position: relative;
+    font-weight: 800;
+  }
+  
+  #hero .btn-watch-video i {
+    color: var(--color-primary);
+    font-size: 32px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+    transition: 0.3s;
+  }
+  
+  #hero .btn-watch-video:hover {
+    color: var(--color-primary);
+  }
+  
+  .links {
+    position: relative;
+  }
+  .social-links__header {
+    margin-top: 20px;
+    float: right;
+    position: fixed;
+    right: 20px;
+    z-index: 1000;
+  }
+
+  .links {
+    display: block;
+  }
+
+  .header__main {
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 14px;
+  }
+
+  .header__sub {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 200;
+  }
+  
+  @media (min-width: 1024px) {
+    #hero {
+      background-attachment: fixed;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    #hero {
+      height: 100vh;
+    }
+    #hero h1 {
+      font-size: 28px;
+      line-height: 36px;
+    }
+    #hero h2 {
+      font-size: 18px;
+      line-height: 24px;
+      margin-bottom: 30px;
+    }
+    #hero .btn-get-started, #hero .btn-watch-video {
+      font-size: 13px;
+    }
+  }
+  
+  @media (max-height: 500px) {
+    #hero {
+      height: 120vh;
+    }
+  }
+  

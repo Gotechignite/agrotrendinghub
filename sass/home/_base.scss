@@ -1,0 +1,50 @@
+
+:root {  
+  --color-primary: #81bb16;
+  --color-primary-light: #a6d608; 
+  --color-primary-dark: #64e432;
+  
+  --color-text: #222222;
+  --color-text-light: #777777;
+  
+  --color-rgba: rgba(121, 234, 16, 0.493);
+  --color-rgba-dark: rgba(121, 234, 16, 0.897);
+
+  --color-footer-dark: #1C2830;
+  --color-footer-light: #1c2830cc;
+}
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+    font-family: 'Lato', sans-serif;
+    color:  var(--color-text);
+    font-size: 18px;
+    font-weight: 500;
+    overflow-x: hidden;
+  }
+  
+  a {
+    color: var(--color-primary);
+  }
+  
+  a:hover {
+    color: var(--color-primary-light);
+    text-decoration: none;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  p {
+    font-family: 'Lato', sans-serif;
+  }
+  

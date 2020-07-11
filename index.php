@@ -72,8 +72,8 @@
           </li>
           <li><a href="./shop.html">Shop</a></li>
 
-          <li class="active"><a href="https://agrotrendinghub.herokuapp.com">Log in</a></li>
-          <li class="active"><a href="https://agrotrendinghub.herokuapp.com">Sign up</a></li>
+          <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Log in</a></li>
+          <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Sign up</a></li>
 
 
         </ul>

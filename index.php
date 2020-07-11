@@ -573,10 +573,10 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-worker">
-            <img src="assets/img/company/investor.jpg" class="img-fluid" alt="company image">
+            <img src="assets/img/company/investor.JPG" class="img-fluid" alt="company image">
             <div class="portfolio-info">
               <h4>Investor</h4>
-              <a href="assets/img/company/investor.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/company/investor.JPG" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
   
@@ -605,10 +605,10 @@
           </div>
   
           <div class="col-lg-4 col-md-6 portfolio-item filter-worker">
-            <img src="assets/img/Farm-estate/w5.jpg" class="img-fluid" alt="company image">
+            <img src="assets/img/Farm-estate/w5.JPG" class="img-fluid" alt="company image">
             <div class="portfolio-info">
               <h4>staff</h4>
-              <a href="assets/img/Farm-estate/w5.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/Farm-estate/w5.JPG" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
             </div>
           </div>
   

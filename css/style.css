@@ -78,6 +78,25 @@ p {
     transform: rotate(360deg); } }
 
 /*--------------------------------------------------------------
+  # Clients
+  --------------------------------------------------------------*/
+.award {
+  padding: 15px 0;
+  text-align: center;
+  transition: all .2s; }
+
+.award img:hover {
+  transform: scale(1.15); }
+
+@media (max-width: 768px) {
+  .award img {
+    max-width: 30%; } }
+
+.img-award {
+  max-width: 60%;
+  height: auto; }
+
+/*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
@@ -949,32 +968,6 @@ section {
   visibility: visible; }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff; }
-
-/*--------------------------------------------------------------
-# Back to top button
---------------------------------------------------------------*/
-.back-to-top {
-  position: fixed;
-  display: none;
-  right: 15px;
-  bottom: 15px;
-  z-index: 99999; }
-
-.back-to-top i {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 24px;
-  width: 40px;
-  height: 40px;
-  border-radius: 4px;
-  background: var(--color-primary);
-  color: #fff;
-  transition: all 0.4s; }
-
-.back-to-top i:hover {
-  background: var(--color-primary-light);
   color: #fff; }
 
 /*--------------------------------------------------------------

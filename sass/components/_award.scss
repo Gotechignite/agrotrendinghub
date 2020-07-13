@@ -5,14 +5,10 @@
   .award{
     padding: 15px 0;
     text-align: center;
+    transition: all .2s;
   }
   
-  .award img {
-    max-width: 45%;
-    transition: all 0.4s ease-in-out;
-    display: inline-block;
-    padding: 15px 0;
-  }
+  
   
   .award img:hover {
     transform: scale(1.15);
@@ -20,7 +16,12 @@
   
   @media (max-width: 768px) {
     .award img {
-      max-width: 40%;
+      max-width: 30%;
     }
+  }
+
+  .img-award {
+    max-width: 60%;
+    height: auto;
   }
   

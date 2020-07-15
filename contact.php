@@ -155,6 +155,7 @@
               Kolawole Ojo Street, Ijoko <br />
               <strong>Phone:</strong> +234 703 967 7720<br />
               <strong>Email:</strong> support@agrotrendinghub.com.ng<br />
+              Created by <a href="">Jife tech international</a> 
             </p>
           </div>
 

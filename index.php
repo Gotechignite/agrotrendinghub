@@ -78,9 +78,9 @@
               <li><a href="./agroebooks.html">Agro-Ebooks</a></li>
             </ul>
           </li>
-          <li><a href="./contact.php">Contact us</a></li>
           <li><a href="./shop.html">Shop</a></li>
 
+          <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Log in</a></li>
           <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Sign up</a></li>
 
 
@@ -685,6 +685,7 @@
               Kolawole Ojo Street, Ijoko <br />
               <strong>Phone:</strong> +234 703 967 7720<br />
               <strong>Email:</strong> support@agrotrendinghub.com.ng<br />
+              Created by <a href="">Jife tech international</a> 
             </p>
           </div>
 

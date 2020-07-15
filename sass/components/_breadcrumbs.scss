@@ -3,20 +3,20 @@
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
-  text-transform: uppercase;
-  min-height: 40px;
+  text-transform: capitalize;
+  min-height: 50px;
   margin-top: 0px;
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
-  padding: 25px 0;
+  padding: 35px 0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   font-weight: 600;
 }
 
 @media (max-width: 992px) {
   .breadcrumbs {
-    margin-top: 58px;
+    margin-top: 0px;
   }
 }
 

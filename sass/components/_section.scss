@@ -54,3 +54,12 @@ section {
   .construction {
     padding: 200px;
   }
+
+  @media (max-width: 992px) {
+    .section-title h3 {
+      font-size: 23px;
+    }
+    .section-title p {
+      font-size: 15px;
+    }
+  }

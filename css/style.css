@@ -78,10 +78,10 @@ p {
     transform: rotate(360deg); } }
 
 /*--------------------------------------------------------------
-  # Clients
+  # Award
   --------------------------------------------------------------*/
 .award {
-  padding: 15px 0;
+  padding: 100px 0;
   text-align: center;
   transition: all .2s; }
 
@@ -90,7 +90,7 @@ p {
 
 @media (max-width: 768px) {
   .award img {
-    max-width: 30%; } }
+    max-width: 40%; } }
 
 .img-award {
   max-width: 60%;
@@ -100,19 +100,19 @@ p {
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
-  text-transform: uppercase;
-  min-height: 40px;
+  text-transform: capitalize;
+  min-height: 50px;
   margin-top: 0px;
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
-  padding: 25px 0;
+  padding: 35px 0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   font-weight: 600; }
 
 @media (max-width: 992px) {
   .breadcrumbs {
-    margin-top: 58px; } }
+    margin-top: 0px; } }
 
 .breadcrumbs h2 {
   font-size: 24px;
@@ -279,7 +279,7 @@ p {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  padding: 70px 0 60px; }
+  padding: 100px 0 60px; }
 
 .counts .count-box {
   padding: 30px 30px 25px 30px;
@@ -420,7 +420,7 @@ p {
 --------------------------------------------------------------*/
 .product .box {
   font-family: 'Roboto', sans-serif;
-  padding: 20px;
+  padding: 10px;
   background: var(--color-primary);
   text-align: center;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12);
@@ -429,7 +429,7 @@ p {
   overflow: hidden; }
 
 .product .box .box-round {
-  padding: 20px;
+  padding: 10px;
   background: #fff;
   text-align: center;
   border-radius: 50px;
@@ -529,6 +529,12 @@ section {
 
 .construction {
   padding: 200px; }
+
+@media (max-width: 992px) {
+  .section-title h3 {
+    font-size: 23px; }
+  .section-title p {
+    font-size: 15px; } }
 
 /*--------------------------------------------------------------
 # About
@@ -640,7 +646,7 @@ section {
     padding: 15px;
     top: 0; }
   #header .logo {
-    font-size: 25px; } }
+    font-size: 20px; } }
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -724,18 +730,32 @@ section {
 #hero .btn-watch-video:hover {
   color: var(--color-primary); }
 
-.links {
-  position: relative; }
-
 .social-links__header {
   margin-top: 20px;
   float: right;
   position: fixed;
   right: 20px;
-  z-index: 1000; }
+  z-index: 1000;
+  font-size: 20px; }
+  .social-links__header a .twitter {
+    background-color: #00acee;
+    color: #fff;
+    border: 1.6px solid #00acee;
+    padding: 8px; }
+  .social-links__header a .facebook {
+    background-color: #4267B2;
+    color: #fff;
+    border: 1.6px solid #4267B2;
+    padding: 8px; }
+  .social-links__header a .instagram {
+    background-color: #ffffff;
+    color: #C13584;
+    border: 1.6px solid #C13584;
+    padding: 8px; }
 
 .links {
-  display: block; }
+  display: block;
+  position: relative; }
 
 .header__main {
   text-transform: uppercase;
@@ -756,7 +776,7 @@ section {
   #hero {
     height: 100vh; }
   #hero h1 {
-    font-size: 28px;
+    font-size: 30px;
     line-height: 36px; }
   #hero h2 {
     font-size: 18px;
@@ -1189,6 +1209,10 @@ section {
   height: 300px;
   position: relative;
   overflow: hidden; }
+
+@media (max-width: 992px) {
+  .team .member .member-img {
+    height: 370px; } }
 
 .team .member .social {
   position: absolute;

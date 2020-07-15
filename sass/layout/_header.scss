@@ -83,7 +83,7 @@
       top: 0;
     }
     #header .logo {
-      font-size: 25px;
+      font-size: 20px;
     }
   }
 
@@ -184,19 +184,39 @@
     color: var(--color-primary);
   }
   
-  .links {
-    position: relative;
-  }
+  
   .social-links__header {
     margin-top: 20px;
     float: right;
     position: fixed;
     right: 20px;
     z-index: 1000;
-  }
+    font-size: 20px;
 
+    & a .twitter{
+      background-color: #00acee;
+      color: #fff;
+      border: 1.6px solid #00acee;
+      padding: 8px;
+    }
+    & a .facebook{
+      background-color: #4267B2;
+      color: #fff;
+      border: 1.6px solid #4267B2;
+      padding: 8px;
+    }
+    & a .instagram{
+      background-color: #ffffff;
+      color: #C13584;
+      border: 1.6px solid #C13584;
+      padding: 8px;
+    }
+
+  }
+  
   .links {
     display: block;
+    position: relative;
   }
 
   .header__main {
@@ -223,7 +243,7 @@
       height: 100vh;
     }
     #hero h1 {
-      font-size: 28px;
+      font-size: 30px;
       line-height: 36px;
     }
     #hero h2 {

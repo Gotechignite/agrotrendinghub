@@ -5,14 +5,19 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="description" content="Agrotrends nigeria integrated servicess. Agrotrends offer practical agricultural training, consultancy, fund support, commodity trading and business partnership.">
+  <meta content="AGRO, FARM, AGROTRENDINGHUB" name="keywords">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author content="Agrotrend">
 
   <title>AgrotrendingHub</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo.ico" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="shortcut icon" href="favicon_io/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="favicon_io/site.webmanifest">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700;1,900&family=Roboto&display=swap" rel="stylesheet">
@@ -51,7 +56,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
      
-      <h1 class="logo mr-auto"><a href="index.html">Agrotrending<span>Hub.</span></a></h1>
+      <h1 class="logo mr-auto"><a href="index.php">Agrotrending<span>Hub.</span></a></h1>
 
       
       <nav class="nav-menu d-none d-lg-block">
@@ -61,9 +66,9 @@
           <li class="drop-down"><a href="#">Services</a>
             <ul>
               <li><a href="https://agrotrending.blogspot.com" target="_blank">Blog</a></li>
-              <li><a href="#services">Our services</a></li>
+              <li><a href="#services">Our Services</a></li>
               <li><a href="#pricing">Farm Establishment</a></li>
-              <li><a href="farmestate.html">Farm Estates</a></li>
+              <li><a href="./farmestate.html">Farm Estates</a></li>
             </ul>
           </li>
           <li class="drop-down"><a href="#">Products</a>
@@ -73,9 +78,9 @@
               <li><a href="./agroebooks.html">Agro-Ebooks</a></li>
             </ul>
           </li>
+          <li><a href="./contact.php">Contact us</a></li>
           <li><a href="./shop.html">Shop</a></li>
 
-          <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Log in</a></li>
           <li class="active"><a href="https://agrotrendinghub.herokuapp.com" target="_blank">Sign up</a></li>
 
 
@@ -95,7 +100,7 @@
       </h1>
       <h2>Creating Wealth Through Nature</h2>
       <div class="d-flex">
-        <a href="https://agrotrendinghub.herokuapp.com" class="btn-get-started scrollto">Get Started</a>
+        <a href="https://agrotrendinghub.herokuapp.com" target="_blank" class="btn-get-started">Get Started</a>
     
       </div>
     </div>
@@ -115,41 +120,46 @@
 
         <div class="section-title">
           <h3>Find Out More <span>About Us</span></h3>
-          <p>Agrotrends nigeria integrated servicess.
-            Agrotrends offer practical Agricultural 
+          <p class="text-capitalize">
+            Agrotrends nigeria integrated servicess. Agrotrends offer practical Agricultural 
             Training, Consultancy, Fund Support, Commodity trading and Business partnership.
           </p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/about.png" class="img-fluid" alt="about">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="about">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-            <h3 style="color: #81bb16">Agrotrends Agricultural Produce Agrregation Center.</h3>
+            <h3 style="color: #81bb16">
+              Agrotrends Agricultural Produce Aggregation Center
+            </h3>
             <p>
-              Agrotrends was founded December 17th, 2017. We have provided quality 
-              agricultural services to 862 clients and have worked on over 20 
-              agricultural projects across the 36 states of the country, 
-              africa countries and India.
+              Agrotrends was founded on December 17th, 2017. We have provided quality
+             agricultural services to 862 clients and have worked on over 20 agricultural
+             projects across the 36 states of the country, Africa countries, and India.
             </p>
-            <p class="font-italic"> We have Facilitated farm land lease of 150 acres, managed 94 acres of farm 
-              land, snail, fish and pig farm. We facilitated 8 major commodity trades 
-              offline and 27 trades via our website & social media platforms. We have 
-              trained 47 graduates on agribusiness, and 450 men, women and youths on
-               various agribusiness enterprise. Also, we have been a consultant on both 
-               public and private project including ABP, Fadama Rice Project, Hope Concept 
-               2000 cooperatives farmers group, Political agricultural empowerment project,
-                SMEs association & Religious bodies.
+            <p class="font-italic"> 
+              We have Facilitated farmland lease of 150 acres, managed 94 acres of
+             farmland, snail, fish, and pig farm. We facilitated 8 major commodity trades
+             offline and 27 trades via our website & social media platforms. We have
+             trained over 47 graduates on agribusiness, and 450 men, women, and youths
+             on various agribusiness enterprise. Also, we have been a consultant on both
+             public and private projects including ABP, Fadama Rice Project, Hope
+            Concept 2000 cooperatives farmers group, Political agricultural empowerment
+            project, SME association & Religious bodies.
             </p>
             <ul>
               <li>
                 <i class="bx bx-store-alt"></i>
                 <div>
-                  <h5>Creative and Vissionary Team.</h5>
-                  <p>Our team is a collection of skilled proffesional young leaders in 
-                    the agricultural sector, Business Aminstration, Public managment, 
-                    Purchase & Supply and Technology.
+                  <h5>
+                    Creative and Visionary Team.
+                  </h5>
+                  <p>
+                    Our team is a collection of skilled professional young leaders in
+                   the agricultural sector, Business Administration, Public 
+                   Management, Purchase & Supply, and Technology.
                   </p>
                 </div>
               </li>
@@ -177,8 +187,8 @@
               <img src="assets/img/icon/FARMER.png" alt="service" class="image">
               <h4>FARM SETUP & MANAGEMENT</h4>
               <p>
-                We provide farm setup and management service,
-                establishment of processing centre and farm layout.
+                We provide farm setup and management service, the establishment of 
+                processing centers, and farm layout
               </p>
             </div>
           </div>
@@ -188,9 +198,8 @@
               <img src="assets/img/icon/UTILIZING-ARABLE-FARMLAND.png" alt="service" class="image">
               <h4>COMMODITY TRADING</h4>
               <p>
-                We facilitate purchase and sales of agricultural produce directly 
-                from farm to to designated factories / warehouse within the stipulated 
-                time with great concern for quality.
+                We facilitate purchase and sales of agricultural produce directly from the farm to designated
+                factories/warehouses within the stipulated time with great concern for quality.
               </p>
             </div>
           </div>
@@ -200,8 +209,8 @@
               <img src="assets/img/icon/INVESTORS.png" alt="service" class="image">
               <h4>Agribusinsess Plans & Market Research</h4>
               <p>
-                We provide industry tailored validated business plan, feasibility 
-                studies, financial analysis with local and international market research.
+                We provide industry-tailored validated business plans, feasibility studies, financial analysis
+                with local and international market research.
               </p>
             </div>
           </div>
@@ -211,8 +220,8 @@
               <img src="assets/img/icon/GROWwEALTH.png" alt="service" class="image">
               <h4>LAND SALE & LEASING</h4>
               <p>
-                We provide fertile arable farm lands in large volume 
-                within South-West regions(Ogun, Oyo, Ekiti, Ondo and Osun State).
+                We provide fertile arable farmlands in large volumes within South-West regions(Ogun, Oyo,
+                Ekiti, Ondo, and Osun State).
               </p>
             </div>
           </div>
@@ -222,8 +231,8 @@
               <img src="assets/img/icon/YOUTHEMPOWERMENT.png" alt="service" class="image">
               <h4> Training </h4>
               <p>
-                We are commited to getting you informed and prepared with the required pratical knowledge 
-                for you to be successful in your choosen agribusiness enterprise.
+                We are committed to getting you informed and prepared with the required practical
+                knowledge for you to be successful in your chosen agribusiness enterprise
               </p>
             </div>
           </div>
@@ -233,8 +242,8 @@
               <img src="assets/img/icon/FARMER.png" alt="service" class="image">
               <h4>Business Partnership & Consultancy</h4>
               <p>
-                At Agrotrends, we strongly believe in working together to 
-                achieve greater result with fair share.
+                At Agrotrends, we strongly believe in working together to achieve 
+                greater results with fair share.
               </p>
             </div>
           </div>
@@ -286,7 +295,7 @@
         <div class="section-title">
           
           <h3>Our Hardworking <span>Team</span></h3>
-          <p>Our team is a collection of skilled proffesional 
+          <p class="text-capitalize">Our team is a collection of skilled proffesional 
             young leaders in the agricultural sector, Business 
             Aminstration, Public managment, Purchase & Supply and Technology.
           </p>
@@ -314,7 +323,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/h2.png" class="img-fluid" alt="team">
+                <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team">
                 <div class="social">
                   <a href="https://twitter.com/agrotrending"><i class="icofont-twitter"></i></a>
                   <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-facebook"></i></a>
@@ -335,7 +344,7 @@
                 <div class="social">
                   <a href="https://twitter.com/agrotrending"><i class="icofont-twitter"></i></a>
                   <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-facebook"></i></a>
-                  <a href=#><i class="icofont-linkedin"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -374,7 +383,7 @@
         <div class="section-title">
           
           <h3> <span>Farm Establishment</span></h3>
-          <p>
+          <p class="text-capitalize">
             Choose from different crops.
             Create your Agrotrend farm account today and get your farm project started.
           </p>
@@ -400,7 +409,7 @@
                                <li class="na">Gestation Period : 18 months</li>
                              </ul>
                              <div class="btn-wrap">
-                               <a href="contact.html" class="btn-buy">Start your farm</a>
+                               <a href="./contact.php" class="btn-buy">Start your farm</a>
                              </div>
                           </div>
                     </div>
@@ -424,7 +433,7 @@
                              <li class="na">Gestation Period : 5 months</li>
                            </ul>
                            <div class="btn-wrap">
-                             <a href="contact.html" class="btn-buy">Start your farm</a>
+                             <a href="./contact.php" class="btn-buy">Start your farm</a>
                            </div>
                         </div>
                   </div>
@@ -448,7 +457,7 @@
                              <li class="na">Gestation Period : 1 year</li>
                            </ul>
                            <div class="btn-wrap">
-                             <a href="contact.html" class="btn-buy">Start your farm</a>
+                             <a href="./contact.php" class="btn-buy">Start your farm</a>
                            </div>
                         </div>
                   </div>
@@ -503,75 +512,6 @@
   
         </div>
       </section><!-- End Counts Section -->
-  
-      <!-- ======= Award Section ======= -->
-      <section id="award" class="award section-bg">
-        <div class="container" data-aos="zoom-in">
-  
-          <div class="row">
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons.jpg" class="img-fluid" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons1.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons2.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons3.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons4.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons5.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="row">
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons6.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons7.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/hardworker/spons8.jpg" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/award/a1.png" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/award/a2.png" class="img-award" alt="">
-            </div>
-  
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="assets/img/award/a3.png" class="img-award" alt="">
-            </div>
-  
-          </div>
-  
-            
-           
-  
-  
-  
-          </div>
-  
-        </div>
-      </section><!-- End Clients Section -->
-
     
     
     <!-- ======= Contact Section ======= -->
@@ -580,7 +520,7 @@
 
         <div class="section-title">
           <h3><span>Contact Us</span></h3>
-          <p>Please contact us using this form if you have any questions or comments about agrotrendhub farm.</p>
+          <p class="text-capitalize">Please contact us using this form if you have any questions or comments about agrotrendhub farm.</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -665,7 +605,71 @@
       </div>
     </section><!-- End Contact Section -->
 
+
+  
+  <!-- ======= Award Section ======= -->
+      <section id="award" class="award section-bg">
+        <div class="container" data-aos="zoom-in">
+  
+          <div class="row">
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons.jpg" class="img-fluid" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons1.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons2.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons3.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons4.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons5.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="row">
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons6.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons7.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/hardworker/spons8.jpg" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/award/a1.png" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/award/a2.png" class="img-award" alt="award">
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/award/a3.png" class="img-award" alt="award">
+            </div>
+  
+          </div>
+  
+        </div>
+      </section><!-- End award Section -->
+
   </main><!-- End #main -->
+
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -680,7 +684,7 @@
               Our Address:
               Kolawole Ojo Street, Ijoko <br />
               <strong>Phone:</strong> +234 703 967 7720<br />
-              <strong>Email:</strong> support@agrotrendinghub.com<br />
+              <strong>Email:</strong> support@agrotrendinghub.com.ng<br />
             </p>
           </div>
 
@@ -689,20 +693,20 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="https://agrotrending.blogspot.com" target="_blank">Our blog</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#team">Our team</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">contact us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Tell a friend</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.html">Privacy Policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php"">contact us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php"">Tell a friend</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./privacy-policy.html">Privacy Policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Get involved & Make Requests </h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Start a farm</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Business plan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Request Farm Hands </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Request for fund</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Get a job</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">Start a farm</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./businessplan.html">Business plan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">Request Farm Hands </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">Request for fund</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">Get a job</a></li>
             </ul>
           </div>
 
@@ -723,7 +727,7 @@
 
     <div class="container py-4">
       <div class="copyright">
-        <P>By using these site you have agree to Terms and condition</P>
+        <P>By using these site you have agree to Terms and Condition</P>
       </div>
       <div class="copy-data">
         &copy;<script>document.write(new Date().getFullYear());</script> 
@@ -733,7 +737,7 @@
   </footer><!-- End Footer -->  
 
   <div id="preloader"></div>
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+  
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">

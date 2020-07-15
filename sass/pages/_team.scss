@@ -20,7 +20,12 @@
     position: relative;
     overflow: hidden;
   }
-  
+
+  @media (max-width: 992px) {
+    .team .member .member-img {
+      height: 370px;
+    }
+  }
   .team .member .social {
     position: absolute;
     left: 0;

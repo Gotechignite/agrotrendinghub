@@ -4,14 +4,20 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description" content="Agrotrends nigeria integrated servicess. Agrotrends offer practical agricultural training, consultancy, fund support, commodity trading and business partnership.">
+  <meta content="AGRO, FARM, AGROTRENDINGHUB" name="keywords">
+  <meta http-equiv="X-UA-Compatible" content="IE=7">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author content="Agrotrend">
 
-  <title>AgrotrendingHud Farm</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+  <title>AgrotrendingHub</title>
 
   <!-- Favicons -->
-  <link href="assets/img/logo.ico" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="shortcut icon" href="favicon_io/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="favicon_io/site.webmanifest">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -40,7 +46,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>contact form</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="./index.php">Home</a></li>
             <li>contact us</li>
           </ol>
         </div>
@@ -65,7 +71,7 @@
           <div class="info-box  mb-4">
             <i class="bx bx-envelope"></i>
             <h3>Email Us</h3>
-            <p>contact@example.com</p>
+            <p>support@agrotrendinghub.com.ng</p>
           </div>
         </div>
 
@@ -148,7 +154,7 @@
               Our Address:
               Kolawole Ojo Street, Ijoko <br />
               <strong>Phone:</strong> +234 703 967 7720<br />
-              <strong>Email:</strong> contact@example.com<br />
+              <strong>Email:</strong> support@agrotrendinghub.com.ng<br />
             </p>
           </div>
 
@@ -156,16 +162,16 @@
             <h4>Information</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="https://agrotrending.blogspot.com" target="_blank">Our blog</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">contact us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.html">Privacy Policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contact.php">contact us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./privacy-policy.html">Privacy Policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Get involved & Make Requests </h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Start a farm</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Business plan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Start a farm</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./businessplan.html">Business plan</a></li>
             </ul>
           </div>
 
@@ -196,7 +202,21 @@
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5f0c34285b59f94722ba9dfb/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>

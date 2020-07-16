@@ -4,11 +4,11 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Agrotrends nigeria integrated servicess. Agrotrends offer practical agricultural training, consultancy, fund support, commodity trading and business partnership.">
+  <meta name="description" content="Agrotrends nigeria integrated servicess offers practical agricultural training, consultancy, fund support, commodity trading and business partnership.">
   <meta content="AGRO, FARM, AGROTRENDINGHUB" name="keywords">
   <meta http-equiv="X-UA-Compatible" content="IE=7">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="author content="Agrotrend">
+  <meta name="author" content="Agrotrend">
 
   <title>AgrotrendingHub</title>
 
@@ -45,8 +45,7 @@
       </div>
       <div class="help">
         <a href="#">Helpline: +234 703 967 7720</a> 
-        <a href="https://wa.me/+2347039677720" target="_blank" class="instagram"><i class="bx bxl-whatsapp"></i>chat us</a>
-
+        <a href="#" target="_blank" class="instagram"><i class="bx bxl-whatsapp"></i>chat us</a>
       </div>
     </div>
   </div>
@@ -56,7 +55,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
      
-      <h1 class="logo mr-auto"><a href="index.php">Agrotrending<span>Hub.</span></a></h1>
+      <p class="logo mr-auto"><a href="index.php">Agrotrending<span>Hub.</span></a></p>
 
       
       <nav class="nav-menu d-none d-lg-block">
@@ -105,9 +104,9 @@
       </div>
     </div>
     <div class="social-links__header">
-      <a href="https://twitter.com/agrotrending" target="_blank" class="twitter links" ><i class="bx bxl-twitter twitter"></i></a>
-      <a href="https://facebook.com/Agrotrending" target="_blank" class="facebook links"><i class="bx bxl-facebook facebook"></i></a>
-      <a href="https://instagram.com/agrotrending" target="_blank" class="instagram links"><i class="bx bxl-instagram instagram"></i></a>
+      <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank" class="twitter links" ><i class="bx bxl-twitter twitter"></i></a>
+      <a href="https://facebook.com/Agrotrending" aria-label="facebook" target="_blank" class="facebook links"><i class="bx bxl-facebook facebook"></i></a>
+      <a href="https://instagram.com/agrotrending" aria-label="instagram" target="_blank" class="instagram links"><i class="bx bxl-instagram instagram"></i></a>
     </div>
   </section><!-- End Hero -->
   
@@ -128,7 +127,7 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="about">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="about" style="max-width: 100%; height: auto">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <h3 style="color: #81bb16">
@@ -260,7 +259,7 @@
         <div class="owl-carousel testimonials-carousel">
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="person-1">
+            <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="person-1" style="max-width: 100%; height: 100px">
             <h3>Mr. Olanrewaju Idowu</h3>
             <h4>Manager. Agronomy consults </h4>
             <p>
@@ -270,7 +269,7 @@
             </p>
           </div>
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="person-2">
+            <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="person-2" style="max-width: 100%; height: 100px">
             <h3> Trainees</h3>
             <h4>Mao Livestock</h4>
             <p>
@@ -306,11 +305,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/h1.jpg" class="img-fluid" alt="team">
+                <img src="assets/img/hardworker/h1.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
                 <div class="social">
-                  <a href="https://twitter.com/Adedani49421900"><i class="icofont-twitter"></i></a>
-                  <a href="https://facebook.com/adebanjoolatunji.danieltimileyin"><i class="icofont-facebook"></i></a>
-                  <a href="https://linkedin.com/mwlite/in/adebanjo-olatunji-daniel-42a343112"><i class="icofont-linkedin"></i></a>
+                  <a href="https://twitter.com/Adedani49421900" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://facebook.com/adebanjoolatunji.danieltimileyin" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://linkedin.com/mwlite/in/adebanjo-olatunji-daniel-42a343112" aria-label="linkedin" target="_blank"><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -323,11 +322,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team">
+                <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
                 <div class="social">
-                  <a href="https://twitter.com/agrotrending"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-instagram"></i></a>
+                  <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -340,11 +339,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/stephen.jpg" class="img-fluid" alt="team">
+                <img src="assets/img/hardworker/stephen.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
                 <div class="social">
-                  <a href="https://twitter.com/agrotrending"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-instagram"></i></a>
+                  <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -354,14 +353,14 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" style="max-width: 100%; height: auto">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/partners.jpg" class="img-fluid" alt="team">
+                <img src="assets/img/hardworker/partners.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
                 <div class="social">
-                  <a href="https://twitter.com/agrotrending"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub"><i class="icofont-instagram"></i></a>
+                  <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -394,7 +393,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               <div class="box">
                    <div class="box-round">     
-                       <img src="assets/img/Establishment/pinappp.jpg" class="img-fluid" alt="pricing">
+                       <img src="assets/img/Establishment/pinappp.jpg" class="img-fluid" alt="pricing" style="max-width: 100%; height: 150px">
                          <div class="product-info">
                              <h3>Pineapple</h3>
                              <ul>
@@ -418,7 +417,7 @@
            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="box">
                  <div class="box-round">     
-                     <img src="assets/img/Establishment/castor-bean.jpg" class="img-fluid" alt="pricing">
+                     <img src="assets/img/Establishment/castor-bean.jpg" class="img-fluid" alt="pricing" style="max-width: 100%; height: 150px">
                        <div class="product-info">
                            <h3>Castor bean</h3>
                            <ul>
@@ -442,7 +441,7 @@
            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="box">
                  <div class="box-round">     
-                     <img src="assets/img/Establishment/pawpaw.jpg" class="img-fluid" alt="pricing">
+                     <img src="assets/img/Establishment/pawpaw.jpg" class="img-fluid" alt="pricing" style="max-width: 100%; height: 150px">
                        <div class="product-info">
                            <h3>Pawpaw</h3>
                            <ul>
@@ -599,10 +598,8 @@
             </form>
           </div>
         </div>
-
-        </div>
       </div>
-      </div>
+    </div>
     </section><!-- End Contact Section -->
 
 
@@ -664,7 +661,7 @@
             </div>
   
           </div>
-  
+         </div>
         </div>
       </section><!-- End award Section -->
 
@@ -685,7 +682,7 @@
               Kolawole Ojo Street, Ijoko <br />
               <strong>Phone:</strong> +234 703 967 7720<br />
               <strong>Email:</strong> support@agrotrendinghub.com.ng<br />
-              Created by <a href="">Jife tech international</a> 
+              Created by <a href="#">Jife Tech </a> 
             </p>
           </div>
 
@@ -694,8 +691,8 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="https://agrotrending.blogspot.com" target="_blank">Our blog</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#team">Our team</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php"">contact us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php"">Tell a friend</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">contact us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contact.php">Tell a friend</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="./privacy-policy.html">Privacy Policy</a></li>
             </ul>
           </div>

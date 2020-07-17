@@ -20,14 +20,14 @@
   <link rel="manifest" href="favicon_io/site.webmanifest">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700;1,900&family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700;1,900&family=Roboto&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/icofont/icofont.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css">
+  <link rel="stylesheet" href="https://cdn.boomcdn.com/libs/owl-carousel/2.3.4/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/venobox/1.8.6/venobox.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/3.0.0-beta.6/aos.css">
 
   <!-- Main CSS File -->
   <link href="css/style.css" rel="stylesheet">
@@ -305,7 +305,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/h1.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
+                <img src="assets/img/hardworker/h1.jpg" class="img-fluid" alt="team">
                 <div class="social">
                   <a href="https://twitter.com/Adedani49421900" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
                   <a href="https://facebook.com/adebanjoolatunji.danieltimileyin" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
@@ -322,7 +322,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
+                <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team">
                 <div class="social">
                   <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
                   <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
@@ -339,7 +339,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/stephen.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
+                <img src="assets/img/hardworker/stephen.jpg" class="img-fluid" alt="team">
                 <div class="social">
                   <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
                   <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
@@ -353,10 +353,10 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" style="max-width: 100%; height: auto">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/hardworker/partners.jpg" class="img-fluid" alt="team" style="max-width: 100%; height: auto">
+                <img src="assets/img/hardworker/partners.jpg" class="img-fluid" alt="team" >
                 <div class="social">
                   <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
                   <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
@@ -752,15 +752,16 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/jquery.counterup@2.1.0/jquery.counterup.js"></script>
+  <script type="text/javascript" src="https://cdn.boomcdn.com/libs/owl-carousel/2.3.4/owl.carousel.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/venobox/1.8.6/venobox.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aos/3.0.0-beta.6/aos.js"></script>
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>

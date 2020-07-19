@@ -45,7 +45,7 @@
       </div>
       <div class="help">
         <a href="#">Helpline: +234 703 967 7720</a> 
-        <a href="#" target="_blank" class="instagram"><i class="bx bxl-whatsapp"></i>chat us</a>
+       
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@
         <div class="section-title">
           <h3>Find Out More <span>About Us</span></h3>
           <p class="text-capitalize">
-            Agrotrends nigeria integrated servicess. Agrotrends offer practical Agricultural 
+            Agrotrends nigeria integrated services. Agrotrends offer practical Agricultural 
             Training, Consultancy, Fund Support, Commodity trading and Business partnership.
           </p>
         </div>
@@ -313,6 +313,7 @@
                 </div>
               </div>
               <div class="member-info">
+                <h4>ADE-DANIEL</h4>
                 <h4>ADEBANJO O. DANIEL</h4>
                 <span>CEO &amp; Project Director</span>
               </div>
@@ -325,8 +326,8 @@
                 <img src="assets/img/hardworker/h2.jpg" class="img-fluid" alt="team">
                 <div class="social">
                   <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
+                  <a href="https://facebook.com/Agrotrending" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://intagram.com/Agrotrending" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -341,9 +342,9 @@
               <div class="member-img">
                 <img src="assets/img/hardworker/stephen.jpg" class="img-fluid" alt="team">
                 <div class="social">
-                  <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
+                  <a href="https://m.facebook.com/alabi.stephentope/" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://twitter.com/StephenAlabite?s=08/" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://instagram.com/alabi.stephentope/" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -359,12 +360,12 @@
                 <img src="assets/img/hardworker/partners.jpg" class="img-fluid" alt="team" >
                 <div class="social">
                   <a href="https://twitter.com/agrotrending" aria-label="twitter" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
-                  <a href="https://web.facebook/Agrotrendinghub" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
+                  <a href="https://instagram.com/agrotrending" aria-label="facebook" target="_blank"><i class="icofont-facebook"></i></a>
+                  <a href="https://facebook.com/adansola.olaniyi.12/" aria-label="linkedin" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>ADANSOLA OLANITI</h4>
+                <h4>ADANSOLA OLANIYI</h4>
                 <span>Sales &amp; Farm Manager</span>
               </div>
             </div>
